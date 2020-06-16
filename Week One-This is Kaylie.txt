@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+<h1> This is Kaylie Vong </h1>
+</head>
+
+<body>
+<h2> <b> Who is Kaylie Vong? </b> </h2>
+<p> Kaylie Vong is a 14 year old girl <b> who wants to learn how to code. </b> Kaylie was born on <b> June 08, 2006 in North Carolina. </b> <u> Kaylie is <b> <i> cool.</b> </i> </u> </p>
+</body>
+
+<body>
+<h2> What did Kaylie do During Quarantine? </h2>
+<p> During quarantine, Kaylie had a lot more free time to do <b> stuff. </b> <i> However, </i> she still had school work to complete since school was not done until <u> June 09. </u> Kaylie worked on <b> finishing her school work.</b>  Kaylie also worked to<b> <i> work out and exercise. </b> </i>  However, she did not <i> enjoy it </i> and prefers <b> playing and practicing volleyball </b> outside than working out.  She did a lot more than working out and school work tho! Kaylie also entered a short story contest for Webtoon. <b> <i> <u> However, we won't speak of that.. </b> </i> </u>Yes, Kaylie's quarantine is <u> <i> very eventful.</i> </u>  </p>
+<img src="https://adminhome.forma-eg.com/images/newsCms/Data/drinking-enough-water-1542366008.jpg">
+<img src="https://images.glaciermedia.ca/polopoly_fs/1.24150780.1591905875!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_804/stress-student-computer-home-learning-stock-photo.jpg">
